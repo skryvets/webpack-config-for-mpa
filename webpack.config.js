@@ -66,7 +66,8 @@ module.exports = {
         })
       },
     ]
-  }
+  },
+  plugins: []
 }
 
 if (inProduction) {
